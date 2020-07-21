@@ -32,7 +32,7 @@ var MarvelMovieData = [
     Movie(movieName: "Spider-Man", movieReleaseDate: 2019, actors: ["Tom Holland", "Jake Gyllenhaal","Samuel L. Jackson"], rating: 7.5, pgRating: "PG-13"),
 
 
-
+    
 
     Movie(movieName: "Joker", movieReleaseDate: 2019, actors: ["Joaquin Phoenix", "Robert De Niro","Glenn Fleshler"], rating: 8.5, pgRating: "R"),
     Movie(movieName: "The Dark Knight", movieReleaseDate: 2008, actors: ["Christian Bale","Heath Ledger","Aaron Eckhart"], rating: 9.0, pgRating: "PG-13"),
